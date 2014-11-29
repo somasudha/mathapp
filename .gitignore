@@ -25,6 +25,3 @@ proguard/
 .DS_Store
 /build
 
-.idea
-mathapp.iml
-app/app.iml
